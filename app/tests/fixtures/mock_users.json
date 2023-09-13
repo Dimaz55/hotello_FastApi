@@ -1,0 +1,17 @@
+[
+	{
+		"email" : "fedor@moloko.ru",
+		"hashed_password" : "tut_budet_hashed_password_1",
+		"is_admin" : false
+	},
+	{
+		"email" : "sharik@moloko.ru",
+		"hashed_password" : "tut_budet_hashed_password_2",
+		"is_admin" : false
+	},
+	{
+		"email" : "user@example.com",
+		"hashed_password" : "$2b$12$EAz4CaQWv0TgUJAWgw8fUOO0RH1LQqacQPk7QzsIrptA0PgE86sN2",
+		"is_admin" : true
+	}
+]
